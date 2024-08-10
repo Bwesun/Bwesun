@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Bwesun
-- 👀 I’m interested in Web Development and Design.
-- 🌱 I’m currently learning PHP Backend Development.
-- 💞️ I’m looking to collaborate on Python.
-- 📫 How to reach me: https://www.facebook.com/incent.bwesun/
+- 👀 I’m interested in Web Design and Development.
+- 🌱 I’m currently learning ReactJS.
+- 📫 How to reach me: LinkedIn - [https://www.facebook.com/incent.bwesun/](https://www.linkedin.com/in/innocent-matur/)
 
 <!---
 Bwesun/Bwesun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
