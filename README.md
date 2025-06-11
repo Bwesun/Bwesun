@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bwesun
-- 👀 I’m interested in Web Design and Development.
-- 🌱 I’m currently learning ReactJS.
+- 👀 I’m a Web/Mobile App Developer.
+- 🌱 I’m currently learning Ionic React framework.
 - 📫 How to reach me: LinkedIn - [https://www.linkedin.com/in/innocent-matur/](https://www.linkedin.com/in/innocent-matur/)
 
 <!---
